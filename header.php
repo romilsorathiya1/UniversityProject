@@ -331,9 +331,9 @@
 
 <body>
 
-    <div class="brand-header">SHREYARTH UNIVERSITY</div>
-
+    
     <header class="header-wrapper">
+        <div class="brand-header">SHREYARTH UNIVERSITY</div>
         <div class="container main-nav-container">
             <a href="#home" class="nav-logo">Shreyarth</a>
             <button class="menu-toggle material-icons">menu</button>

@@ -562,40 +562,40 @@
             <div class="placement-slider">
                 <div class="company-logos">
                     <!-- 16 LOGOS -->
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/google.com" alt="Google"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/amazon.com" alt="Amazon"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/microsoft.com" alt="Microsoft"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/tcs.com" alt="TCS"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/infosys.com" alt="Infosys"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/wipro.com" alt="Wipro"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/gs.com" alt="Goldman Sachs"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/accenture.com" alt="Accenture"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/ibm.com" alt="IBM"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/oracle.com" alt="Oracle"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/ey.com" alt="EY"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/intel.com" alt="Intel"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/cisco.com" alt="Cisco"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/hdfcbank.com" alt="HDFC Bank"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=google.com&sz=128" alt="Google"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=128" alt="Amazon"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" alt="Microsoft"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=deloitte.com&sz=128" alt="Deloitte"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=tcs.com&sz=128" alt="TCS"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=infosys.com&sz=128" alt="Infosys"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=wipro.com&sz=128" alt="Wipro"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=gs.com&sz=128" alt="Goldman Sachs"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=128" alt="Accenture"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" alt="IBM"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=oracle.com&sz=128" alt="Oracle"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=capgemini.com&sz=128" alt="Capgemini"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=ey.com&sz=128" alt="EY"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=128" alt="Intel"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" alt="Cisco"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=hdfcbank.com&sz=128" alt="HDFC Bank"></div>
 
                     <!-- Duplicate logos for seamless scroll -->
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/google.com" alt="Google"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/amazon.com" alt="Amazon"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/microsoft.com" alt="Microsoft"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/deloitte.com" alt="Deloitte"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/tcs.com" alt="TCS"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/infosys.com" alt="Infosys"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/wipro.com" alt="Wipro"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/gs.com" alt="Goldman Sachs"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/accenture.com" alt="Accenture"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/ibm.com" alt="IBM"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/oracle.com" alt="Oracle"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/capgemini.com" alt="Capgemini"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/ey.com" alt="EY"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/intel.com" alt="Intel"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/cisco.com" alt="Cisco"></div>
-                    <div class="logo-slide"><img src="https://logo.clearbit.com/hdfcbank.com" alt="HDFC Bank"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=google.com&sz=128" alt="Google"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=128" alt="Amazon"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" alt="Microsoft"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=deloitte.com&sz=128" alt="Deloitte"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=tcs.com&sz=128" alt="TCS"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=infosys.com&sz=128" alt="Infosys"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=wipro.com&sz=128" alt="Wipro"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=gs.com&sz=128" alt="Goldman Sachs"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=accenture.com&sz=128" alt="Accenture"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=128" alt="IBM"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=oracle.com&sz=128" alt="Oracle"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=capgemini.com&sz=128" alt="Capgemini"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=ey.com&sz=128" alt="EY"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=intel.com&sz=128" alt="Intel"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=cisco.com&sz=128" alt="Cisco"></div>
+                    <div class="logo-slide"><img src="https://www.google.com/s2/favicons?domain=hdfcbank.com&sz=128" alt="HDFC Bank"></div>
                 </div>
             </div>
         </div>

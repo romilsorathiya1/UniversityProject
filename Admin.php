@@ -4,7 +4,7 @@
 session_start();
 
 // --- DATABASE CONFIGURATION ---
-$db_host = 'localhost';
+$db_host = 'localhost:3307';
 $db_user = 'root';
 $db_pass = '';
 $db_name = 'college_db';
